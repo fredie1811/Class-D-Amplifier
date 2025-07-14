@@ -1,4 +1,4 @@
-# Half-Bridge Class D Bluetooth Audio Amplifier
+# Class D Audio Amplifier
 
 This project involves the design and implementation of a 2-layer PCB for a *Class D audio amplifier* using a *half-bridge topology* and integrated *Bluetooth streaming* via the *MHM-28 module*. The amplifier is capable of driving a speaker with high efficiency using Pulse Width Modulation (PWM), with clean audio recovery using an LC filter.
 

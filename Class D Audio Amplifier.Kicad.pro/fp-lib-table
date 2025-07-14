@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Class D Amplifier Pain")(type "KiCad")(uri "${KIPRJMOD}/Class D Amplifier Pain.pretty")(options "")(descr ""))
+)
